@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fmmrabir
-- 👀 I’m interested in AI and Data Engineering.
+- 👀 I’m interested in BackEnd Development.
 - 🌱 I’m currently learning Django.
 
 <!---
